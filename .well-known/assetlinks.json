@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "it.tuttointempo.beta",
+      "sha256_cert_fingerprints": [
+        "13:86:9C:FF:84:8D:42:67:56:49:AE:DF:17:B9:0B:18:84:02:9D:0F:C0:CA:60:1B:1E:99:E1:9E:A1:2E:15:BF"
+      ]
+    }
+  }
+]
